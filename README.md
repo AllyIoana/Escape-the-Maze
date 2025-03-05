@@ -1,5 +1,3 @@
-# test
-
 ## Team roles & details
 PM
 - Vlad Buțcan
